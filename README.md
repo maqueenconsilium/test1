@@ -6,3 +6,5 @@ sourcetree
 test
 branch2
 feature
+
+release
